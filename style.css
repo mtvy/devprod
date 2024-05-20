@@ -78,11 +78,12 @@ header .left p{
 }
 
 header .left a{
-    display: flex;
+    display:inline-flex;
     align-items: center;
     background: #000;
     width: 200px;
     padding: 8px;
+    margin: 3px;
     border-radius: 60px;
 }
 
